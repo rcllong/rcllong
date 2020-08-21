@@ -2,7 +2,7 @@
 - 每天进步一点点
 - 热爱学习
 - 喜欢钻研
-# 😄 极力推荐一个大佬, 点击[链接](https://github.com/softwareking)跳转大神地址 在线帮忙解决各种问题
+# 😄 极力推荐一个大佬[许进](https://github.com/softwareking), 点击[链接](https://github.com/softwareking)跳转大神地址 在线帮忙解决各种问题
 
 
 
